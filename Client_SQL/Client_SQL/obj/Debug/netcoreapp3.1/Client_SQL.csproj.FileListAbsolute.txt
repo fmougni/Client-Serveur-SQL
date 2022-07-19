@@ -1,0 +1,15 @@
+C:\Users\fmougni\source\repos\Client_SQL\Client_SQL\obj\Debug\netcoreapp3.1\Client_SQL.csprojAssemblyReference.cache
+C:\Users\fmougni\source\repos\Client_SQL\Client_SQL\obj\Debug\netcoreapp3.1\Client_SQL.AssemblyInfoInputs.cache
+C:\Users\fmougni\source\repos\Client_SQL\Client_SQL\obj\Debug\netcoreapp3.1\Client_SQL.AssemblyInfo.cs
+C:\Users\fmougni\source\repos\Client_SQL\Client_SQL\obj\Debug\netcoreapp3.1\Client_SQL.csproj.CoreCompileInputs.cache
+C:\Users\fmougni\source\repos\Client_SQL\Client_SQL\bin\Debug\netcoreapp3.1\Client_SQL.exe
+C:\Users\fmougni\source\repos\Client_SQL\Client_SQL\bin\Debug\netcoreapp3.1\Client_SQL.deps.json
+C:\Users\fmougni\source\repos\Client_SQL\Client_SQL\bin\Debug\netcoreapp3.1\Client_SQL.runtimeconfig.json
+C:\Users\fmougni\source\repos\Client_SQL\Client_SQL\bin\Debug\netcoreapp3.1\Client_SQL.runtimeconfig.dev.json
+C:\Users\fmougni\source\repos\Client_SQL\Client_SQL\bin\Debug\netcoreapp3.1\Client_SQL.dll
+C:\Users\fmougni\source\repos\Client_SQL\Client_SQL\bin\Debug\netcoreapp3.1\Client_SQL.pdb
+C:\Users\fmougni\source\repos\Client_SQL\Client_SQL\obj\Debug\netcoreapp3.1\Client_SQL.dll
+C:\Users\fmougni\source\repos\Client_SQL\Client_SQL\obj\Debug\netcoreapp3.1\Client_SQL.pdb
+C:\Users\fmougni\source\repos\Client_SQL\Client_SQL\obj\Debug\netcoreapp3.1\Client_SQL.genruntimeconfig.cache
+C:\Users\fmougni\source\repos\Client_SQL\Client_SQL\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\fmougni\source\repos\Client_SQL\Client_SQL\obj\Debug\netcoreapp3.1\Client_SQL.csproj.CopyComplete
